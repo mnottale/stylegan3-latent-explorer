@@ -30,3 +30,6 @@ Features
   - Configureable image size and count in a grid layout
   - Fully random latent vector generation, or
   - Latent vector generation around a given point (image) with a configureable radius
+
+
+![Screenshot](screenshots/stylegan3-latent-explorer.jpg?raw=true "Screenshot")
